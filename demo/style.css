@@ -1,0 +1,12 @@
+.main{
+    border: 5px solid gray;
+    height: 500px;
+    width: 500px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.box-1{background-color: blue;}
+.box-2{background-color:aqua}
+.box-3{background-color:blueviolet}
